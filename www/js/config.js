@@ -96,15 +96,6 @@ const functionlist = [
         en_description: "This page explains the basic usage of the file store.</br>To upload/download files in the file store, use File class.</br>The methods of this class are all class methods and are used without creating an instance."
     },
     {
-        id: "btn-location-information-search",
-        ja_name: "位置情報検索",
-        en_name: "Location information search",
-        link: "https://mbaas.nifcloud.com/doc/current/geopoint/basic_usage_javascript.html#gsc.tab=0",
-        template: "template/location-information-search/index.html",
-        ja_description: "NCMBGeoPointは、位置情報を扱うためのクラスです。",
-        en_description: "NCMBGeoPoint is a class for handling location information."
-    },
-    {
         id: "btn-script",
         ja_name: "スクリプト",
         en_name: "Script",
