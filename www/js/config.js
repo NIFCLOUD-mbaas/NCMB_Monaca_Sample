@@ -7,8 +7,8 @@ const defaultlanguage = "en";
  * This const is your NCMB key
  */
 const ncmbproperty = {
-    application_key : "50069d5f10ad26c88dfee716f0a6692418ce06e97fdacfd66613779a468bd69b",
-    client_key:"21163698bcf740eb4c6112532409a3ccc7fcde8ac4bf6ddcbea8bf21012f592d"
+    application_key : "",
+    client_key:""
 };
 
 /**
@@ -22,8 +22,8 @@ const apple_property = {
  * Your Twitter key :D
  */
 const twitter_key = {
-    oauth_consumer_key: "I3j88K1GiMe9pTWA4lWY6Z8r2",
-    consumer_secret: "nKupP2FyVV9XTeItBQcw37H4iXUmd2BYl7v4pBpKcB0BvEMqY9"
+    oauth_consumer_key: "",
+    consumer_secret: ""
 }
 
 /**
