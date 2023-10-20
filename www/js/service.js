@@ -5,7 +5,7 @@ var _UserName = 'Yamada Tarou';
 var _UserPassword = 'password';
 // Member management
 // Please change below variable if you need to confirm user by email address.
-var _EmailAddress = 'vfa.tamhh@gmail.com';
+var _EmailAddress = '';
 var _Password = 'password';
 // File store
 var img_url = 'https://mbaas.api.nifcloud.com/2013-09-01/applications/vbkBXOzj1RtMaGoh/publicFiles/mBaaS_image.png';

@@ -14,8 +14,7 @@ TestFilters([], () => {
             cy.get('#main-content div').eq(3).should('have.text', 'Push Notification')
             cy.get('#main-content div').eq(4).should('have.text', 'SNS cooperation')
             cy.get('#main-content div').eq(5).should('have.text', 'File store')
-            cy.get('#main-content div').eq(6).should('have.text', 'Location information search')
-            cy.get('#main-content div').eq(7).should('have.text', 'Script')
+            cy.get('#main-content div').eq(6).should('have.text', 'Script')
         })
         /**
         * Begin quick start

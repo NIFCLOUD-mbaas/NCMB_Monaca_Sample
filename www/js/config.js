@@ -7,8 +7,8 @@ const defaultlanguage = "en";
  * This const is your NCMB key
  */
 const ncmbproperty = {
-    application_key : "50069d5f10ad26c88dfee716f0a6692418ce06e97fdacfd66613779a468bd69b",
-    client_key:"21163698bcf740eb4c6112532409a3ccc7fcde8ac4bf6ddcbea8bf21012f592d"
+    application_key : "",
+    client_key:""
 };
 
 /**
@@ -22,8 +22,8 @@ const apple_property = {
  * Your Twitter key :D
  */
 const twitter_key = {
-    oauth_consumer_key: "I3j88K1GiMe9pTWA4lWY6Z8r2",
-    consumer_secret: "nKupP2FyVV9XTeItBQcw37H4iXUmd2BYl7v4pBpKcB0BvEMqY9"
+    oauth_consumer_key: "",
+    consumer_secret: ""
 }
 
 /**
@@ -94,15 +94,6 @@ const functionlist = [
         template: "template/file-store/index.html",
         ja_description: "このページでは、ファイルストアの基本的な使い方について説明します。</br>ファイルストアでファイルをアップロード・ダウンロードするには、Fileクラスを利用します</br>このクラスのメソッドは全てクラスメソッドとなっており、インスタンスを生成せずに利用します。",
         en_description: "This page explains the basic usage of the file store.</br>To upload/download files in the file store, use File class.</br>The methods of this class are all class methods and are used without creating an instance."
-    },
-    {
-        id: "btn-location-information-search",
-        ja_name: "位置情報検索",
-        en_name: "Location information search",
-        link: "https://mbaas.nifcloud.com/doc/current/geopoint/basic_usage_javascript.html#gsc.tab=0",
-        template: "template/location-information-search/index.html",
-        ja_description: "NCMBGeoPointは、位置情報を扱うためのクラスです。",
-        en_description: "NCMBGeoPoint is a class for handling location information."
     },
     {
         id: "btn-script",
